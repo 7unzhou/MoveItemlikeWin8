@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="green">#00ff00</color>
+    <color name="blue">#0000ff</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#ff0000</color>
+    <color name="black">#000000</color>
+    <color name="orange">#ffca00</color>
+    <color name="grey">#999999</color>
+
+    <drawable name="yellow">#F5DB2E</drawable>
+    <drawable name="orange">#FEA24F</drawable>
+    <drawable name="white">#ffffff</drawable>
+    <drawable name="dark_grey">#666666</drawable>
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="green">#89D229</drawable>
+    <drawable name="red">#FC5857</drawable>
+    <drawable name="bg">#226E8F</drawable>
+
+</resources>
